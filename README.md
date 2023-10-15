@@ -3,7 +3,7 @@
 
 ## Overview
 
-This React Native application is a food explorer app that allows users to explore delicious food from different cultures around the world. Users can discuss, review, and recommend types of food and where to enjoy them. The app features various screens and functionalities, including user check-ins on a map, popular food recommendations, user login and signup, and a feature to recommend food.
+This React Native Expo mobile application is a food explorer app that allows users to explore delicious food from different cultures around the world. Users can discuss, review, and recommend types of food and where to enjoy them. The app features various screens and functionalities, including user check-ins on a map, popular food recommendations, user login and signup, and a feature to recommend food.
 
 ## Installation
 
